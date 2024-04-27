@@ -2,7 +2,7 @@
 
 Data cleaning using SQL Server:
 
-· Standardize formats
-· Check of NULLs
-· Break info of one column into more usefull Q of columns
+· Standardize formats</br>
+· Check of NULLs</br>
+· Break info of one column into more usefull Q of columns</br>
 · Delete duplicate rows and unuseful columns
